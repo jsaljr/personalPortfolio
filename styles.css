@@ -51,15 +51,53 @@ body {
     color: #0000af;
     text-shadow: 2px 2px orange;
   }
+
   .projects {
     display: flex;
     flex-wrap: wrap;
   }
+
   .project-tile {
     color: #0000af;
     font-size: 20px;
     font-family: arial, sans-serif;
     text-align: center;
+  }
+
+  .project-tile2 {
+    color: #0000af;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    text-align: center;
+  }
+
+  .project-two {
+    width: 300px;
+    height: 200px;
+  }
+
+  .project-tile3 {
+    color: #0000af;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    text-align: center;
+  }
+
+  .project-three {
+    width: 200px;
+    height: 260px;
+  }
+
+  .project-tile4 {
+    color: #0000af;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    text-align: center;
+  }
+
+  .project-four {
+    width: 200px;
+    height: 260px;
   }
   
   @media (max-width: 1199px) and (min-width: 769px) {
